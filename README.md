@@ -10,7 +10,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/Uaze/uazebotmain
-> cd alfbot
+> cd uazebotmain
 > bash install.sh
 > npm i node-tesseract-ocr
 > pkg install tesseract
